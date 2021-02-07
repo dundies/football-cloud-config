@@ -1,0 +1,4 @@
+app:
+  fallback:
+    team:
+      name: Samsung FC (Server Config)
